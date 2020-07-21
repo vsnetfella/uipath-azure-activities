@@ -47,9 +47,7 @@
 ![](./screenshots/27-ae0a7d62983e1e27.png)
 
   - The URL must be supplied as the one shown just below the Folder textbox.
-  - If your URL looks like this https://\&lt;storageaccountname\&gt;.file.core.windows.net/\&lt;filesharename\&gt; this should be modified as
-
-\\\&lt;storageaccountname\&gt;.file.core.windows.net\\&lt; filesharename\&gt;
+  - If your URL looks like this https://yourstorageaccountname.file.core.windows.net/yourfilesharename this should be modified as \\\yourstorageaccountname.file.core.windows.net\yourfilesharename
 
 5. Select &quot;Connect using different Credentials&quot;
 6. Give the Storage account name we copied earlier as the user name
