@@ -8,7 +8,7 @@ Azure User Group Authentication etc.,
 
 All Azure activity should be wrapped up inside the Azure Scope. You can find the Azure Scope under Cloud Activities  Azure  Azure Scope
 
-![](screenshot\RackMultipart20200721-4-1ga4vcl_html_3b192161e8b2f8b6.png)
+![](RackMultipart20200721-4-1ga4vcl_html_3b192161e8b2f8b6.png)
 
 Below are the required parameters for defining the Azure Scope.
 
